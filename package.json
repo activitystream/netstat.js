@@ -1,5 +1,5 @@
 {
-  "name": "as-netstat",
+  "name": "netstat",
   "preferGlobal": false,
   "private": false,
   "version": "0.0.3",
