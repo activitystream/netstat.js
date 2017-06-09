@@ -2,7 +2,7 @@
   "name": "netstat",
   "preferGlobal": false,
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple js wrapper for the netstat daemon",
   "contributors": [],
   "dependencies": {
@@ -19,6 +19,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/missinglink/netstat.js.git"
+    "url": "https://github.com/activitystream/netstat.js.git"
   }
 }
